@@ -3,4 +3,5 @@ hi
 nihao
 wobuhao
 wohenhao
-im ok
+friend:are you ok?
+wo:im ok.
